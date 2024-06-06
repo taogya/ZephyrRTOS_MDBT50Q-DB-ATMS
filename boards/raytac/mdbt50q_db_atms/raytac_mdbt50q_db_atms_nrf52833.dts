@@ -51,7 +51,6 @@
 			label = "Push button switch 0";
 			zephyr,code = <INPUT_KEY_0>;
 		};
-		};
 	};
 
 	/* These aliases are provided for compatibility with samples */
