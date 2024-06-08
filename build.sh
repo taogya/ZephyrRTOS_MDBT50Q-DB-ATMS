@@ -9,7 +9,6 @@ VENV_PATH="$ZEPHYR_PRJ_PATH"/.venv
 
 if [ "$1" == "clean" ]; then
     rm -rf "$BUILD_PATH"
-    exit 0
 fi
 
 pushd "$ZEPHYR_PRJ_PATH"

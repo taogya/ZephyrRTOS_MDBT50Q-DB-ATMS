@@ -6,6 +6,6 @@
 if BOARD_RAYTAC_MDBT50Q_DB_ATMS
 
 config BT_CTLR
-	default BT
+    default BT
 
 endif # BOARD_RAYTAC_MDBT50Q_DB_ATMS

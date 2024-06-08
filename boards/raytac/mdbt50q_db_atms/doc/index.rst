@@ -26,9 +26,9 @@ Nordic Semiconductor nRF52833 ARM Cortex-M4F CPU and the following devices:
 * :abbr:`WDT (Watchdog Timer)`
 
 .. figure:: img/mdbt50q_db_atms.jpg
-     :width: 442px
-     :align: center
-     :alt: MDBT50Q-DB-ATMS
+   :width: 442px
+   :align: center
+   :alt: MDBT50Q-DB-ATMS
 
 More information about the board can be found at the `MDBT50Q-DB-ATMS website`_.
 The `MDBT50Q-DB-ATMS Specification`_ contains the demo board's datasheet.
@@ -131,7 +131,7 @@ built, flashed, and debugged in the usual way. See :ref:`build_an_application` a
 
 .. note::
    Flashing and Debugging Zephyr onto the raytac_mdbt50q_db_atms/nrf52833 board
-   requires an	external J-Link programmer. The programmer is attached to the J1
+   requires an external J-Link programmer. The programmer is attached to the J1
    or J9 SWD connector.
 
 Flashing
@@ -200,10 +200,10 @@ References
 .. target-notes::
 
 .. _MDBT50Q-DB-ATMS website:
-	https://www.raytac.com/product/ins.php?index_id=106
+    https://www.raytac.com/product/ins.php?index_id=106
 .. _MDBT50Q-DB-ATMS Specification:
-	https://www.raytac.com/download/index.php?index_id=48
+    https://www.raytac.com/download/index.php?index_id=48
 .. _MDBT50Q-DB-ATMS Schematic:
-	https://www.raytac.com/upload/catalog_b/a9254a89d680804d4e4a6d716e33a4be.jpg
+    https://www.raytac.com/upload/catalog_b/a9254a89d680804d4e4a6d716e33a4be.jpg
 .. _J-Link Software and documentation pack:
-	https://www.segger.com/jlink-software.html
+    https://www.segger.com/jlink-software.html

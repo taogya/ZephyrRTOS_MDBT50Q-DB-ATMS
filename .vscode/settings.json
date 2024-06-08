@@ -1,5 +1,4 @@
 {
-    "python.defaultInterpreterPath": "${workspaceFolder}/venv/Scripts/activate",
     "cmake.configureOnOpen": false,
     "cmake.statusbar.advanced": {
       "debug" : {
