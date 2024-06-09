@@ -10,7 +10,7 @@ MDBT50Q-DB-ATMS Board for Zephyr RTOS<br>
 | 26     | P0.15    | Connect/ADV LED | Low Active output                 | D1(Red Led)   |
 | 25     | P0.13    | Indicater       | Low Active output                 | D2(Green Led) |
 | 8      | P0.31    | Wakeup          | Low Active input                  | SW1           |
-| 9      | P0.31    | ADC             | 820k / (820k + 180k) x 3.3V input |               |
+| 9      | P0.30    | ADC             | 820k / (820k + 180k) x 3.3V input |               |
 
 ## Sample
 basic/thread app based on the zephyrproject.<br>
