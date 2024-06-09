@@ -5,13 +5,12 @@ MDBT50Q-DB-ATMS Board for Zephyr RTOS<br>
 > The use of AT commands will become unavailable.<br>
 
 ## PINOUT
-|pin no|pin name|pin label|function|note|
-|-|-|-|-|
-|26|P0.15|Connect/ADV LED|D1(Red Led)|
-|25|P0.13|Indicater|D2(Green Led)|
-|8|P0.31|Wakeup|SW1|
-|9|P0.31|ADC|1.5V/3.3V/3.9V input|
-|
+| pin no | pin name | pin label       | function                          | note          |
+| ------ | -------- | --------------- | --------------------------------- | ------------- |
+| 26     | P0.15    | Connect/ADV LED | Low Active output                 | D1(Red Led)   |
+| 25     | P0.13    | Indicater       | Low Active output                 | D2(Green Led) |
+| 8      | P0.31    | Wakeup          | Low Active input                  | SW1           |
+| 9      | P0.31    | ADC             | 820k / (820k + 180k) x 3.3V input |               |
 
 ## Sample
 basic/thread app based on the zephyrproject.<br>
